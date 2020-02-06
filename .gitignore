@@ -1,0 +1,5 @@
+*.log
+*.pot
+*.pyc
+**/__pycache__/
+/myweb/db.sqlite3
